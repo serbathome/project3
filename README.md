@@ -1,2 +1,3 @@
-# project3
-HarvardX project3 (pizza)
+# Project 3
+
+Web Programming with Python and JavaScript
